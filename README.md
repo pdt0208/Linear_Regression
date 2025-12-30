@@ -1,2 +1,2 @@
-# Multiple_Linear_Regression
-This project implements Multiple Linear Regression to analyze and predict a continuous target variable using two or more independent features.  Unlike single linear regression, multiple linear regression captures the combined effect of multiple predictors on the dependent variable, providing a more realistic and accurate model for real-world data.
+# Linear_Regression
+This project demonstrates the implementation of Linear Regression, a fundamental supervised learning algorithm used to model the relationship between a dependent variable and one or more independent variables.
